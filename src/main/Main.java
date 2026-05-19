@@ -2,7 +2,6 @@ package main;
 
 import model.Student;
 import service.StudentService;
-
 import java.util.Scanner;
 
 public class Main {
